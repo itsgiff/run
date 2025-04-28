@@ -2,14 +2,15 @@
 
 **Race:** Navy Run 10K  
 **Date:** June 21, 2025  
-**Goal:** Steady, strong finish with positive race experience
+**Goal:** Sub-50 10K (5:00/km)
 
 ---
 
 ## Morning Schedule
 
-- 5:30am Wake
-- 6:00am Breakfast (light and familiar foods)
+- 5:00am Wake
+- 5:15am Breakfast (light and familiar foods)
+- 7:00am Arrive at race site
 - 7:30am Warm-up starts
 - 8:00am Race Start
 
@@ -18,66 +19,54 @@
 ## Warm-up Routine
 
 - 8 min light jog
-- Dynamic mobility drills (leg swings, hip openers)
-- Easy strides (2–3 x short strides at relaxed effort)
+- Dynamic drills (leg swings, high knees, butt kicks)
+- 2 × 20s strides at 5K effort
 
 ---
 
 ## Pacing Breakdown
 
-| Segment     | Target Effort     | Focus                                    |
-|-------------|-------------------|------------------------------------------|
-| Start (first 500m uphill) | Very easy effort | Power walk if needed. Save energy. |
-| KM 0.5–3    | Comfortable effort | Settle breathing. Relax into the race.   |
-| KM 4–7      | Steady effort      | Find a strong but maintainable rhythm.   |
-| KM 8–9.5    | Give what you can  | Stay tall. Push what you have left.       |
-| Final 500m (downhill) | Controlled fast finish | Stay smooth, don't sprint wildly. |
+| Segment | Target Pace | Focus                                       |
+|---------|-------------|---------------------------------------------|
+| KM 0–3  | 5:10/km      | Controlled start. Stay relaxed and patient. |
+| KM 4–8  | 5:00/km      | Lock into goal pace rhythm.                 |
+| KM 9–10 | 4:55/km      | Strong finish push.                        |
 
 ---
 
 ## Execution Plan
 
-- **First 500m (uphill start):**
-  - Take it extremely easy — even a fast walk is acceptable if needed.
-  - Focus on posture: shoulders relaxed, arms driving gently.
-  - Save your legs for the main part of the race.
-  - **Mantra:** "Climb calm."
+- **First 3K:**
+  - Conservative start — no faster than 5:10/km.
+  - Settle breathing and cadence.
+  - **Mantra:** "Control early. Push late."
 
-- **KM 0.5–3:**
-  - Settle into a comfortable, relaxed effort.
-  - Smooth breathing, smooth strides.
-  - **Mantra:** "Run relaxed. Run proud."
+- **Middle 4K (KM 4–8):**
+  - Lock into goal pace rhythm.
+  - Stay smooth, efficient, and mentally strong.
+  - **Mantra:** "Lap by lap."
 
-- **Middle 4K (KM 4–7):**
-  - Hold a steady, sustainable effort.
-  - Stay mentally steady — work in small segments.
-  - **Mantra:** "Every step stronger."
-
-- **Final 1.5K (KM 8–9.5):**
-  - Gradually build your effort.
-  - Stay upright, don't lean too far forward.
-  - **Mantra:** "Every step stronger."
-
-- **Last 500m (downhill to finish):**
-  - Let gravity help — open your stride but stay controlled.
-  - Focus on turnover (quick feet) rather than braking.
-  - Finish strong and proud.
+- **Final 2K (KM 9–10):**
+  - Push the effort up.
+  - Stay tall and finish strong.
+  - **Mantra:** "Lap by lap."
 
 ---
 
 ## Fueling and Hydration Plan
 
-- **Breakfast:** Light and familiar foods about 2 hours before race.
-- **Mid-Race:** Sip of water if needed at aid station (especially if warm).
+- **Breakfast:** 2.5–3 hours before race.
+- **Optional:** Pre-race gel if feeling needed.
+- **Mid-Race:** Water sip if necessary (only if very dry conditions).
 
 ---
 
 ## Mental Cues
 
-- "Run relaxed. Run proud."
-- "Every step stronger."
-- "Climb calm. Finish smooth."
+- "Control early. Push late."
+- "One KM at a time."
+- "Finish stronger than you start."
 
 ---
 
-**Final Reminder:** Stay patient on the hill at the start. Settle in. Finish strong down the hill.
+**Final Reminder:** Stay patient early. Lock into your goal effort. Dig deep the final 2K.
