@@ -1,12 +1,12 @@
 # Running Project Tracker
 
-This repository organizes structured training and race strategy files for Paul and Jordan.
+This repository organizes structured training blocks and race strategy files for Paul and Jordan.
 
 ---
 
 ## Structure
 
-- **running/paul/2025/**
+- **paul/2025/**
   - `OakBayHalf_block.md` — Training plan for Oak Bay Half Marathon (May 2024).
   - `OakBayHalf_strategy.md` — Race day strategy for Oak Bay Half.
   - `Navy10k_block.md` — 10K sharpening training for Navy Run (June 2025).
@@ -14,7 +14,7 @@ This repository organizes structured training and race strategy files for Paul a
   - `RoyalVictoriaMarathon_block.md` — Marathon build training plan for RVM (October 2025).
   - `RoyalVictoriaMarathon_strategy.md` — Race day strategy for Royal Victoria Marathon.
 
-- **running/jordan/2025/**
+- **jordan/2025/**
   - `Navy10k_block.md` — Jordan's first structured 10K training build.
   - `Navy10k_strategy.md` — Race day plan for Jordan's Navy 10K.
 
