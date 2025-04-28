@@ -1,6 +1,6 @@
 # Navy Run 10K Training Plan (Jordan)
 
-**Goal:** Build aerobic endurance and complete Navy Run 10K confidently on June 21, 2025.
+**Goal:** Build aerobic endurance and complete Navy Run 10K confidently on Saturday, June 21, 2025.
 
 **Focus Areas:**
 - Introduce light structured speed.
@@ -10,7 +10,7 @@
 
 ---
 
-## Week 1 (April 29 – May 5)
+## Week 1 (April 29 – May 5, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## Week 2 (May 6 – May 12)
+## Week 2 (May 6 – May 12, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -38,7 +38,7 @@
 
 ---
 
-## Week 3 (May 13 – May 19)
+## Week 3 (May 13 – May 19, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -52,7 +52,7 @@
 
 ---
 
-## Week 4 (May 20 – May 26)
+## Week 4 (May 20 – May 26, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -66,7 +66,7 @@
 
 ---
 
-## Week 5 (May 27 – June 2)
+## Week 5 (May 27 – June 2, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -80,7 +80,7 @@
 
 ---
 
-## Week 6 (June 3 – June 9)
+## Week 6 (June 3 – June 9, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -94,7 +94,7 @@
 
 ---
 
-## Week 7 (June 10 – June 16)
+## Week 7 (June 10 – June 16, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -108,7 +108,7 @@
 
 ---
 
-## Race Week (June 17 – June 21)
+## Race Week (June 17 – June 22, 2025)
 
 | Day         | Workout Description                                   |
 |-------------|-------------------------------------------------------|
@@ -116,7 +116,9 @@
 | Tuesday     | Sharpener Workout: 3 × 1 min brisk / 90 sec jog       |
 | Wednesday   | Rest Day                                              |
 | Thursday    | Rest or Light walking only                            |
-| Friday      | **Race Day – Navy Run 10K**                           |
+| Friday      | Shakeout Run 3 km + 2 Strides (easy)                  |
+| Saturday    | **Race Day – Navy Run 10K (Saturday, June 21, 2025)** |
+| Sunday      | Full Rest and Relax                                   |
 
 ---
 

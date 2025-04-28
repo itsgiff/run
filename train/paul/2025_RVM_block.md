@@ -10,7 +10,7 @@
 
 ---
 
-## Transition Phase (June 24 – July 14)
+## Transition Phase (June 24 – July 14, 2025)
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## Base Building Phase (July 15 – August 11)
+## Base Building Phase (July 15 – August 11, 2025)
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
@@ -38,12 +38,12 @@
 
 ---
 
-## Marathon Specific Phase (August 12 – October 5)
+## Marathon Specific Phase (August 12 – October 5, 2025)
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
 | Monday      | Easy Run 8–9 km + Mobility                           |
-| Tuesday     | Marathon Pace Workout: 6–8 km @t 5:27/km             |
+| Tuesday     | Marathon Pace Workout: 6–8 km at 5:27/km             |
 | Wednesday   | Frontrunners Athletic Club (supportive session)      |
 | Thursday    | Rest Day                                             |
 | Friday      | Easy Run 6–7 km + Light Strength and Form Drills     |
@@ -52,12 +52,12 @@
 
 ---
 
-## Race Week (October 6 – October 12)
+## Race Week (October 6 – October 12, 2025)
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
 | Monday      | Easy Run 5 km + Mobility Work                        |
-| Tuesday     | Aerobic Run 5–6 km (with 3 × 1 min pickups at MP)    |
+| Tuesday     | Aerobic Run 5–6 km (with 3 × 1 min pickups @ MP)     |
 | Wednesday   | Frontrunners Athletic Club (very light/social)       |
 | Thursday    | Rest Day                                             |
 | Friday      | 4 km Shakeout Jog + 2 strides (easy)                 |

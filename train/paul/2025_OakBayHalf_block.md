@@ -17,9 +17,9 @@
 | Monday      | Easy Run 6 km + Bodyweight Strength                  |
 | Tuesday     | Steady Aerobic Run 8 km (Zone 2)                     |
 | Wednesday   | Frontrunners Athletic Club                           |
-| Thursday    | Rest Day                                              |
+| Thursday    | Rest Day                                             |
 | Friday      | Easy Run 6 km + Core and Mobility Strength           |
-| Saturday    | Long Run 18 km (last 3 km at goal pace, ~5:10–5:15/km) |
+| Saturday    | Long Run 18 km (last 3 km at goal pace, ~ 5:15/km)   |
 | Sunday      | Easy Recovery Run 5 km                               |
 
 ---
@@ -28,12 +28,12 @@
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
-| Monday      | Easy Run 6–7 km + Bodyweight Strength                 |
-| Tuesday     | Steady Aerobic Run 9 km (build effort gently)         |
+| Monday      | Easy Run 6–7 km + Bodyweight Strength                |
+| Tuesday     | Steady Aerobic Run 9 km (build effort gently)        |
 | Wednesday   | Frontrunners Athletic Club                           |
-| Thursday    | Rest Day                                              |
-| Friday      | Easy Run 5 km + Core Work                             |
-| Saturday    | Long Run 20 km (KM 15–20 at goal pace ~5:10/km)       |
+| Thursday    | Rest Day                                             |
+| Friday      | Easy Run 5 km + Core Work                            |
+| Saturday    | Long Run 20 km (KM 15–20 at goal pace ~5:10/km)      |
 | Sunday      | Easy Recovery Run 5–6 km                             |
 
 ---
@@ -45,9 +45,9 @@
 | Monday      | Easy Run 6 km + Mobility                             |
 | Tuesday     | Aerobic Run 8 km (some gentle pickups in last 2 km)  |
 | Wednesday   | Frontrunners Athletic Club                           |
-| Thursday    | Rest Day                                              |
-| Friday      | Easy Run 5 km                                         |
-| Saturday    | Long Run 14 km (steady, relaxed, no pickups)          |
+| Thursday    | Rest Day                                             |
+| Friday      | Easy Run 5 km                                        |
+| Saturday    | Long Run 14 km (steady, relaxed, no pickups)         |
 | Sunday      | Easy Recovery Run 5 km                               |
 
 ---
@@ -56,13 +56,13 @@
 
 | Day         | Workout Description                                  |
 |-------------|------------------------------------------------------|
-| Monday      | Easy Run 5 km                                         |
-| Tuesday     | Aerobic Run 6 km (with 3 × 1 min pickups at HM pace)  |
-| Wednesday   | Frontrunners Athletic Club (keep very light effort)   |
-| Thursday    | Rest Day                                              |
-| Friday      | 4 km Shakeout + 2 strides (easy)                      |
-| Saturday    | Full Rest Day (Off, relaxed walks only)               |
-| Sunday      | **Race Day – Oak Bay Half Marathon**                  |
+| Monday      | Easy Run 5 km                                        |
+| Tuesday     | Aerobic Run 6 km (with 3 × 1 min pickups at HM pace) |
+| Wednesday   | Frontrunners Athletic Club (keep very light effort)  |
+| Thursday    | Rest Day                                             |
+| Friday      | 4 km Shakeout + 2 strides (easy)                     |
+| Saturday    | Full Rest Day (Off, relaxed walks only)              |
+| Sunday      | **Race Day – Oak Bay Half Marathon**                 |
 
 ---
 
