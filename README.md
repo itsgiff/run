@@ -1,10 +1,12 @@
 # Run Project
 
 Minimal tracking of training and racing blocks for Paul and Jordan.
+All training supports a build toward the Royal Victoria Marathon on October 12, 2025.
 
-- `train/paul/` — Training blocks for Paul (maintenance and race prep)
-- `train/jordan/` — Training blocks for Jordan (if/when confirmed)
-- `race/paul/` — Race-day materials (strategy, pacing, warmups, fueling)
-- `race/jordan/` — Race-day materials (only if Jordan commits to races)
+- `train/paul/` — Training blocks for Paul (organized by goal or race)
+- `train/jordan/` — Training blocks for Jordan
+- `race/paul/` — Race-day materials (morning schedule, warmup, mantras, fueling)
+- `race/jordan/` — Race-day materials
 
-Each folder is broken down by maintenance blocks or race-specific builds.
+Each folder is flattened for simplicity: one `.md` file = one training block.
+
