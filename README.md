@@ -1,5 +1,3 @@
-# Run
-
 Structured training blocks and race strategies for Paul and Jordan.
 
 ---
@@ -41,32 +39,5 @@ Structured training blocks and race strategies for Paul and Jordan.
 | Date              | Event                         | Status       | Result       |
 |-------------------|-------------------------------|--------------|--------------|
 | June 21, 2025     | Navy Run 10K                  | In Training  | TBD          |
-
----
-
-## Data
-
-- **paul/2025/**
-  - `OakBayHalf_block.md` - Training block for Oak Bay Half Marathon.
-  - `OakBayHalf_strategy.md` - Race strategy for Oak Bay Half.
-  - `Navy10k_block.md` - 10K sharpening block for Navy Run.
-  - `Navy10k_strategy.md` - Race day strategy for Navy Run 10K.
-  - `RoyalVictoriaMarathon_block.md` - Marathon training block for Royal Victoria Marathon.
-  - `RoyalVictoriaMarathon_strategy.md` - Race day strategy for Royal Victoria Marathon.
-  - `TC10K_block.md` - Training block for the TC10K.
-  - `TC10K_strategy.md` - Race strategy for the TC10K.
-
-- **jordan/2025/**
-  - `Navy10k_block.md` - Jordan's Navy Run 10K build.
-  - `Navy10k_strategy.md` - Jordan's race day strategy for Navy Run 10K.
-
----
-
-## Notes
-
-- **Block** files = full structured training plans.
-- **Strategy** files = detailed race day plans.
-- **Folders organized** by runner - year - race.
-- **Naming Standard:** `[RaceName]_[block/strategy].md`
 
 ---
