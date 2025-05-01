@@ -8,7 +8,7 @@ Structured training blocks and race strategies for Paul and Jordan.
 |------------------------|----------|-------------|------------------------------------------------------------------------------|
 | 1K                     | 4:02     | 2025-01-03  | [Lunch Run](https://www.strava.com/activities/13258364189)                   |
 | 5K                     | 23:02    | 2025-01-01  | [5K Time Trial](https://www.strava.com/activities/13241728533)               |
-| 8K                     | 39:55    | 2025-02-28  | [5K Time Trial](https://www.strava.com/activities/13241728533)               |
+| 8K                     | 39:55    | 2025-02-28  | [Hately Castle 8K](https://www.strava.com/activities/13708550716)            |
 | 10K                    | 48:30    | 2025-04-27  | [TC10K](https://www.strava.com/activities/14303960743)                       |
 | Half Marathon          | 1:52:32  | 2024-12-28  | [Morning Run](https://www.strava.com/activities/13211252057)                 |
 | Marathon               | 4:55:17  | 2020-10-12  | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516)  |
