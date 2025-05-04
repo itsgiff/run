@@ -12,9 +12,11 @@ Structured training blocks and race strategies for Paul and Jordan.
 | 10K                    | 48:30    | 2025-04-27  | [TC10K](https://www.strava.com/activities/14303960743)                       |
 | Half Marathon          | 1:52:32  | 2024-12-28  | [Morning Run](https://www.strava.com/activities/13211252057)                 |
 | Marathon               | 4:55:17  | 2020-10-12  | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516)  |
-| Ultra (50K)            | TBD      | 2026-##-##  | [one day](link)                                                              |
-| Ultra (100K)           | TBD      | 2027-##-##  | [one day](link)                                                              |
-| Ultra (24h)            | TBD      | 2030-##-##  | [one day](link)                                                              |
+| Ultra (50K)            | TBD      | 2026-##-##  | [Sooke Hills 50K](https://www.sookehillsrunning.com/50km)                     |
+| Ultra (100K)           | TBD      | 2027-##-##  | [Whistler 100K](https://utmb.world/en/Race/Overview/whistler100k)             |
+| Ultra (24h)            | TBD      | 2030-##-##  | [Dream Nation](https://raceroster.com/events/2024/90064/dream-nation-apparel-24-hour) |
+| Ultra (171K)           | TBD      | 2028-##-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                               |
+
 
 ---
 
@@ -29,7 +31,10 @@ Structured training blocks and race strategies for Paul and Jordan.
 | Marathon PB           | 3:55     | 2025-10-12  | [Royal Victoria Marathon](https://www.runvictoriamarathon.com/)                                   |
 | Ultra (50K)           | 5:30     | 2026-05-31  | [Sooke Hills Utra 50K](https://www.sookehillsrunning.com/50km)                                    |
 | Ultra (100K)          | 12:00    | 2027-##-##  | [Finlayson Arm Ultra ](https://raceroster.com/events/2022/55544/finlayson-arm)                    |
-| Ultra (24h)           | 150K     | 2030-##-##  | [Dream Nation 24-Hour](https://raceroster.com/events/2024/90064/dream-nation-apparel-24-hour)     |
+| Ultra (50K)            | TBD      | 2026-##-##  | [Sooke Hills 50K](https://www.sookehillsrunning.com/50km)                     |
+| Ultra (100K)           | TBD      | 2027-##-##  | [Whistler 100K](https://utmb.world/en/Race/Overview/whistler100k)             |
+| Ultra (171K)           | TBD      | 2028-##-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                               |
+
 
 
 ---
@@ -53,6 +58,10 @@ Structured training blocks and race strategies for Paul and Jordan.
 | May 26, 2024      | Oak Bay Half Marathon         | In Training     | TBD          |
 | June 21, 2025     | Navy Run 10K                  | In Training     | TBD          |
 | October 12, 2025  | Royal Victoria Marathon       | Upcoming        | TBD          |
+| August 2026       | Sooke Hills Ultra 50K          | Planned         | TBD          |
+| August 2027       | Valhalla Ultra 100K            | Planned         | TBD          |
+| September 2027    | Whistler by UTMB 100K          | Planned         | TBD          |
+| August 2028       | UTMB (171K, Chamonix)          | Target Race     | TBD          |
 
 
 ---
