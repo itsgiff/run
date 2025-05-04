@@ -14,7 +14,6 @@ Structured training blocks and race strategies for Paul and Jordan.
 | Marathon               | 4:55:17  | 2020-10-12  | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516)  |
 | Ultra (50K)            | TBD      | 2026-##-##  | [Sooke Hills 50K](https://www.sookehillsrunning.com/50km)                     |
 | Ultra (100K)           | TBD      | 2027-##-##  | [Whistler 100K](https://utmb.world/en/Race/Overview/whistler100k)             |
-| Ultra (24h)            | TBD      | 2030-##-##  | [Dream Nation](https://raceroster.com/events/2024/90064/dream-nation-apparel-24-hour) |
 | Ultra (171K)           | TBD      | 2028-##-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                               |
 
 
