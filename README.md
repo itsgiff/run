@@ -30,16 +30,15 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 | 2025-05-26 | Oak Bay Half            | 21.1K    | In Training  | 1:45    | TBD     | Primary Spring Goal        |
 | 2025-06-22 | Navy Run                | 10K      | Upcoming     | Sub 50  | TBD     | One year later             |
 | 2025-10-12 | Royal Victoria Marathon | 42.2K    | Upcoming     | 3:50    | TBD     | PB Attempt                 |
-| 2026-01-01 | 5K Time Trail           | 5K       | Plannded     | 22:00   | TBD     | PB Attempt                 |
-| 2026-01-## | Cobble Hill 10K         | 10K      | Planned      | 45:00   | TBD     | Winter Series PB           |
-| 2025-03-## | Sooke 10K               | 10K      | Planned      | 45:00   | TBD     | PB Attempt / Redemption    |
-| 2026-04-## | Bazan Bay 5K            | 5K       | Planned      | TBD     | TBD     | PB Attempt / Redemption    |
-| 2026-05-03 | BMO Vancouver Marathon  | 42.2K    | Planned      | TBD     | TBD     | Spring A race              |
-| 2026-05-## | Sooke Hills Ultra       | 50K      | Planned      | Finish  | TBD     | First official ultra       |
-| 2026-09-## | Whistler 50K by UTMB    | 50K      | Planned      | Finish  | TBD     | Elevation/technical prep   |
-| 2027-08-## | Fat Dog 100             | 100K     | Planned      | Finish  | TBD     | UTMB qualifying race       |
-| 2027-09-## | Whistler 100 by UTMB    | 100K     | Planned      | Finish  | TBD     | Backup qualifier           |
-| 2028-08-## | UTMB                    | 171K     | Target Race  | Qualify | TBD     | Main goal                  |
+| 2026-01-01 | 5K Time Trail           | 5K       | Planned      | 22:00   | TBD     | PB Attempt                 |
+| 2026-01-26 | Cobble Hill 10K         | 10K      | Planned      | 45:00   | TBD     | Winter Series PB           |
+| 2026-04-13 | Bazan Bay 5K            | 5K       | Planned      | PB      | TBD     | PB Attempt / Redemption    |
+| 2026-05-03 | BMO Vancouver Marathon  | 42.2K    | Planned      | Strong  | TBD     | Spring A race              |
+| 2026-07-19 | Broken Goat 50K         | 50K      | Planned      | Finish  | TBD     | Summer trail prep race     |
+| 2026-09-20 | Whistler 50K by UTMB    | 50K      | Planned      | Finish  | TBD     | Elevation/technical prep   |
+| 2027-08-09 | Fat Dog 100             | 100K     | Planned      | Finish  | TBD     | UTMB qualifying race       |
+| 2027-09-20 | Whistler 100 by UTMB    | 100K     | Planned      | Finish  | TBD     | Backup qualifier           |
+| 2028-08-25 | UTMB                    | 171K     | Target Race  | Finish  | TBD     | Main goal                  |
 
 ---
 
@@ -57,20 +56,42 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 <details>
 <summary><strong>2025 Training Focus</strong></summary>
 
-* **Q1**: Base mileage, shin recovery
-* **Q2**: Oak Bay Half build
-* **Q3**: Marathon endurance block
-* **Q4**: Marathon recovery, start ultra prep
+* Post-RVM Recovery & Base (Q4 2025)
+* Oak Bay Half Build
+* Navy Run 10K Sharpening
+* RVM Full Marathon Block
 
 </details>
 
 <details>
-<summary><strong>2026 Preview</strong></summary>
+<summary><strong>2026 Training Blocks</strong></summary>
 
-* **Q1**: Speed sharpening for Cobble Hill
-* **Q2**: Spring Marathon + Ultra build
-* **Q3**: Back-to-back long runs, vert training
-* **Q4**: Trail race maintenance
+* `WinterSpeed_block.md`
+* `EarlySpring_block.md`
+* `VancouverMarathon_block.md`
+* `TransitionToUltra_block.md`
+* `BrokenGoat_block.md`
+* `Whistler50k_block.md`
+* `PostWhistler_block.md`
+
+</details>
+
+<details>
+<summary><strong>2027 Training Blocks</strong></summary>
+
+* `100KBase_block.md`
+* `FatDogPrep_block.md`
+* `Whistler100k_block.md`
+* `Post100K_block.md`
+
+</details>
+
+<details>
+<summary><strong>2028 Training Blocks</strong></summary>
+
+* `UTMBBase_block.md`
+* `UTMBSpecific_block.md`
+* `PostUTMB_block.md`
 
 </details>
 
