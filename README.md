@@ -25,16 +25,20 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 | 2024-10-13 | Royal Vic Half          | 21.1K    | Completed    | Sub-2   | 1:58:54 | Return to form             |
 | 2025-02-23 | Hatley Castle 8K        | 8K       | Completed    | PB      | 39:55   | Island Series              |
 | 2025-03-09 | Sooke 10K               | 10K      | DNR - Injury | N/A     | DNR     | Missed due to shin splints |
-| 2025-04-13 | Bazan Bay 5K            | 5K       | DNR - Injury | N/A     | DNR     |                            |
+| 2025-04-13 | Bazan Bay 5K            | 5K       | DNR - Injury | N/A     | DNR     | Missed due to foot injury  |
 | 2025-04-27 | TC10K                   | 10K      | Completed    | Sub-49  | 48:30   | New PB                     |
 | 2025-05-26 | Oak Bay Half            | 21.1K    | In Training  | 1:45    | TBD     | Primary Spring Goal        |
-| 2025-10-12 | Royal Victoria Marathon | 42.2K    | Upcoming     | 3:55    | TBD     | PB Attempt                 |
+| 2025-06-22 | Navy Run                | 10K      | Upcoming     | Sub 50  | TBD     | One year later             |
+| 2025-10-12 | Royal Victoria Marathon | 42.2K    | Upcoming     | 3:50    | TBD     | PB Attempt                 |
+| 2026-01-01 | 5K Time Trail           | 5K       | Plannded     | 22:00   | TBD     | PB Attempt                 |
 | 2026-01-## | Cobble Hill 10K         | 10K      | Planned      | 45:00   | TBD     | Winter Series PB           |
+| 2025-03-## | Sooke 10K               | 10K      | Planned      | 45:00   | TBD     | PB Attempt / Redemption    |
+| 2026-04-## | Bazan Bay 5K            | 5K       | Planned      | TBD     | TBD     | PB Attempt / Redemption    |
 | 2026-05-03 | BMO Vancouver Marathon  | 42.2K    | Planned      | TBD     | TBD     | Spring A race              |
 | 2026-05-## | Sooke Hills Ultra       | 50K      | Planned      | Finish  | TBD     | First official ultra       |
-| 2026-09-## | Whistler by UTMB        | 50K      | Planned      | Finish  | TBD     | Elevation/technical prep   |
+| 2026-09-## | Whistler 50K by UTMB    | 50K      | Planned      | Finish  | TBD     | Elevation/technical prep   |
 | 2027-08-## | Fat Dog 100             | 100K     | Planned      | Finish  | TBD     | UTMB qualifying race       |
-| 2027-09-## | Whistler by UTMB        | 100K     | Planned      | Finish  | TBD     | Backup qualifier           |
+| 2027-09-## | Whistler 100 by UTMB    | 100K     | Planned      | Finish  | TBD     | Backup qualifier           |
 | 2028-08-## | UTMB                    | 171K     | Target Race  | Qualify | TBD     | Main goal                  |
 
 ---
