@@ -12,11 +12,6 @@ Structured training blocks and race strategies for Paul and Jordan.
 | 10K                    | 48:30    | 2025-04-27  | [TC10K](https://www.strava.com/activities/14303960743)                       |
 | Half Marathon          | 1:52:32  | 2024-12-28  | [Morning Run](https://www.strava.com/activities/13211252057)                 |
 | Marathon               | 4:55:17  | 2020-10-12  | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516)  |
-| Ultra (50K)            | TBD      | 2026-05-##  | [Sooke Hills 50K](https://www.sookehillsrunning.com/50km)                    |
-| Ultra (50K)            | TBD      | 2026-09-##  | [Whistler by UTMB 50K](https://whistler.utmb.world/races/50K)                |
-| Ultra (100K)           | TBD      | 2027-08-##  | [Fat Dog 100](https://www.fatdog120.ca/)                                     |
-| Ultra (100K)           | TBD      | 2027-09-##  | [Whistler 100K](https://whistler.utmb.world/races/100K)                      |
-| Ultra (171K)           | TBD      | 2028-08-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                              |
 
 
 ---
@@ -25,16 +20,44 @@ Structured training blocks and race strategies for Paul and Jordan.
 
 | Goal                  | Target   | Target Date | Event                                                                                             |
 |-----------------------|----------|-------------|---------------------------------------------------------------------------------------------------|
-| 5K PB                 | 22:00    | 2026-01-01  | [New Years Day Time Trial 2026]                                                                   |
+| 5K PB                 | 21:00    | 2026-01-01  | [New Years Day Time Trial 2026]                                                                   |
 | 8K PB                 | 36:00    | 2026-##-##  | [Hately Castle 8K](https://raceroster.com/events/2025/95678/hatley-castle-8k)                     |
-| 10K PB                | 45:00    | TBD         | [Cobble Hill 2026](https://raceroster.com/events/2025/95562/cobble-hill-10k-bc-10k-championships) |
+| 10K PB                | 45:00    | 2026-01-##  | [Cobble Hill 2026](https://raceroster.com/events/2025/95562/cobble-hill-10k-bc-10k-championships) |
 | Half Marathon PB      | 1:45     | 2025-05-26  | [Oak Bay Half](https://oakbayhalf.com/)                                                           |
 | Marathon PB           | 3:55     | 2025-10-12  | [Royal Victoria Marathon](https://www.runvictoriamarathon.com/)                                   |
-| Ultra (50K)           | 5:30     | 2026-05-##  | [Sooke Hills Utra 50K](https://www.sookehillsrunning.com/50km)                                    |
-| Ultra (50K)           | 5:30     | 2026-09-##  | [Whistler by UTMB 50K](https://whistler.utmb.world/races/50K)                                     |
-| Ultra (100K)          | TBD      | 2027-08-##  | [Fat Dog 100](https://www.fatdog120.ca/)                                                          |
-| Ultra (100K)          | TBD      | 2027-09-##  | [Whistler by UTMB 100K](https://whistler.utmb.world/races/100K)                                   |
-| Ultra (171K)          | TBD      | 2028-08-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                                                   |
+| Ultra (50K)           | FINISH   | 2026-05-##  | [Sooke Hills Utra 50K](https://www.sookehillsrunning.com/50km)                                    |
+| Ultra (50K)           | FINISH   | 2026-05-##  | [Sooke Hills Utra 50K](https://www.sookehillsrunning.com/50km)                                    |
+| Ultra (50K)           | FINISH   | 2026-09-##  | [Whistler by UTMB 50K](https://whistler.utmb.world/races/50K)                                     |
+| Ultra (100K)          | FINISH   | 2027-08-##  | [Fat Dog 100](https://www.fatdog120.ca/)                                                          |
+| Ultra (100K)          | FINISH   | 2027-09-##  | [Whistler by UTMB 100K](https://whistler.utmb.world/races/100K)                                   |
+| Ultra (171K)          | QUALITFY | 2028-08-##  | [UTMB](https://montblanc.utmb.world/races/utmb)                                                   |
+
+
+---
+
+## Calander - Paul
+
+| Date              | Event                         | Status          | Result       |
+|-------------------|-------------------------------|-----------------|--------------|
+| June 22, 2024     | CFB Esquimalt Navy Run 10K    | Completed       | 10:53        |
+| October 13, 2024  | Royal Victoria Half Marathon  | Completed       | 1:58:54      |
+| February 23, 2025 | Hately Castle 8K              | Completed       | PB - 39:55   |
+| March 9, 2025     | Westcoast Sooke 10K           | DNR - Injury    | DNR          |
+| April 13, 2025    | Bazan Bay 5K                  | DNR - Injury    | DNR          |
+| April 27, 2025    | TC10K                         | Completed       | PB - 48:30   |
+| May 26, 2024      | Oak Bay Half Marathon         | In Training     | TBD          |
+| June 21, 2025     | CFB Esquimalt Navy Run 10K    | In Training     | TBD          |
+| October 12, 2025  | Royal Victoria Marathon       | Upcoming        | TBD          |
+| February 2025     | Hately Castle 8K              | Planned         | TBD          |
+| March 2026        | Westcoast Sooke 10K           | Planned         | TBD          |
+| April 2026        | Bazan Bay 5K                  | Planned         | TBD          |
+| April 2026        | TC10K                         | Planned         | TBD          |
+| May 3 2026        | BMO Vancouver Marathon        | Planned         | TBD          |
+| May 2026          | Sooke Hills Ultra 50K         | Planned         | TBD          |
+| September 2026    | Whistler by UTMB 50K          | Planned         | TBD          |
+| August 2027       | Fat Dog 100                   | Planned         | TBD          |
+| September 2027    | Whistler by UTMB 100K         | Planned         | TBD          |
+| August 2028       | UTMB (171K, Chamonix)         | Target Race     | TBD          |
 
 
 ---
@@ -45,29 +68,10 @@ Structured training blocks and race strategies for Paul and Jordan.
 |---------|-----------------------------------------|---------------------|
 | Jordan  | Complete 10k Training Block (race:tbd)  | June 21, 2025       |
 
----
-
-## Progress Timeline - Paul
-
-| Date              | Event                         | Status          | Result       |
-|-------------------|-------------------------------|-----------------|--------------|
-| February 23, 2025 | Hately Castle 8K              | Completed       | PB - 39:55   |
-| March 9, 2025     | Westcoast Sooke 10K           | DNR - Injury    | DNR          |
-| April 13, 2025    | Bazan Bay 5K                  | DNR - Injury    | DNR          |
-| April 27, 2025    | TC10K                         | Completed       | PB - 48:30   |
-| May 26, 2024      | Oak Bay Half Marathon         | In Training     | TBD          |
-| June 21, 2025     | Navy Run 10K                  | In Training     | TBD          |
-| October 12, 2025  | Royal Victoria Marathon       | Upcoming        | TBD          |
-| May 2026          | Sooke Hills Ultra 50K         | Planned         | TBD          |
-| September 2026    | Whistler by UTMB 50K          | Planned         | TBD          |
-| August 2027       | Fat Dog 100                   | Planned         | TBD          |
-| September 2027    | Whistler by UTMB 100K         | Planned         | TBD          |
-| August 2028       | UTMB (171K, Chamonix)         | Target Race     | TBD          |
-
 
 ---
 
-## Progress Timeline - Jordan
+## Roadmap - Jordan
 
 | Date              | Event                         | Status       | Result       |
 |-------------------|-------------------------------|--------------|--------------|
