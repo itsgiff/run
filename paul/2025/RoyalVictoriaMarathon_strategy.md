@@ -1,3 +1,4 @@
+
 # Royal Victoria Marathon – Race Strategy
 
 **Race:** Royal Victoria Marathon  
@@ -27,46 +28,53 @@
 
 | Segment     | Target Pace  | Focus                                  |
 |-------------|--------------|----------------------------------------|
-| KM 0–10     | 5:30–5:35/km  | Very conservative, relaxed start.      |
-| KM 10–30    | 5:27/km       | Settle into rhythm. Stay steady.       |
-| KM 30–42.2  | 5:20/km       | Gradual negative split if feeling strong.|
+| KM 0–10     | 5:30–5:35/km  | Relaxed and restrained start.          |
+| KM 10–30    | 5:27/km       | Lock into MP rhythm. Stay smooth.      |
+| KM 30–37    | 5:20–5:23/km  | Controlled surge if feeling strong.    |
+| KM 37–42.2  | 5:15–5:20/km  | Full commitment. Dig deep.             |
 
 ---
 
 ## Execution Plan
 
-- **First 10K:**
-  - Ultra-conservative start.
-  - Hold back even if feeling good.
-  - **Mantra:** "Patience until 32K."
+- **KM 0–10:**  
+  Stay relaxed, light on feet, and avoid any surges. Settle into rhythm by KM 5.  
+  **Mantra:** "Relax, you’re just warming up."
 
-- **Middle 20K (KM 10–30):**
-  - Settle into marathon goal effort.
-  - Fuel regularly and stay relaxed.
-  - **Mantra:** "Fuel early, finish strong."
+- **KM 10–30:**  
+  Lock into marathon effort. Focus on cadence and mental calm. Fuel early.  
+  **Mantra:** "This is your pace. Settle in."
 
-- **Final 12.2K (KM 30–42.2):**
-  - Begin gradual effort increase after 30K.
-  - Focus deeply on maintaining form and fueling.
-  - **Mantra:** "One aid station at a time."
+- **KM 30–37:**  
+  Begin applying pressure if legs feel stable. Keep posture strong.  
+  **Mantra:** "You trained for this. Hold your line."
+
+- **KM 37–42.2:**  
+  Push. Commit fully. One aid station at a time.  
+  **Mantra:** "Strong mind. Brave heart. Finish proud."
 
 ---
 
 ## Fueling and Hydration Plan
 
 - **Breakfast:** 3 hours before race start.
-- **Gels:** Every 45 minutes during race.
-- **Hydration:** Small sips at every aid station. Stay consistent.
+- **Gels:**
+  - Gel 1: 45 minutes (around KM 8–9)
+  - Gel 2: 90 minutes (around KM 18–19)
+  - Gel 3: 135 minutes (around KM 28–29)
+  - Gel 4 (optional): KM 36 if digestion allows
+- **Hydration:** Small sips at every aid station. Do not skip.
 
 ---
 
 ## Mental Cues
 
-- "Patience until 32K."
-- "Fuel early, finish strong."
-- "One aid station at a time."
-- "Stay tall, stay strong."
+- "Relax, you’re just warming up."
+- "This is your pace. Settle in."
+- "You trained for this. Hold your line."
+- "Strong mind. Brave heart. Finish proud."
 
 ---
 
-**Final Reminder:** Stay conservative early. Trust your plan. Be strong when it matters most.
+**Final Reminder:**  
+Don’t chase the first 10K. You’re running the second half. Be steady. Be calm. Be tough when it counts.

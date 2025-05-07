@@ -10,70 +10,227 @@
 
 ---
 
-## Transition Phase (June 24 – July 14, 2025)
 
-| Day         | Workout Description                                  |
-|-------------|------------------------------------------------------|
-| Monday      | Easy Run 6 km + Mobility Work                        |
-| Tuesday     | Steady Aerobic Run 8 km (Zone 2)                     |
-| Wednesday   | Frontrunners Athletic Club (light speed or hills)    |
-| Thursday    | Rest Day                                             |
-| Friday      | Easy Run 5–6 km + Core and Mobility Strength         |
-| Saturday    | Long Run 12–14 km (relaxed, no pace pressure)        |
-| Sunday      | Easy Recovery Run 5 km                               |
+## Week 1 (June 16, 2025 – June 22, 2025)
 
----
+| Day       | Workout Description                            |
+|-----------|------------------------------------------------|
+| Monday    | Easy Run 4–5 km (shakeout, conversational pace)|
+| Tuesday   | Sharpener Workout: 3 × 1 min brisk / 90 sec jog|
+| Wednesday | Frontrunners Athletic Club                     |
+| Thursday  | Rest Day                                       |
+| Friday    | Shakeout Run 3 km + 2 Strides (easy)           |
+| Saturday  | **Race Day – CFB Esquimalt – Navy Run 10K**    |
+| Sunday    | Rest Day                                       |
 
-## Base Building Phase (July 15 – August 11, 2025)
 
-| Day         | Workout Description                                  |
-|-------------|------------------------------------------------------|
-| Monday      | Easy Run 8 km + Bodyweight Strength                  |
-| Tuesday     | Steady Aerobic Run 10 km (build effort gently)       |
-| Wednesday   | Frontrunners Athletic Club (tempo or hills)          |
-| Thursday    | Rest Day                                             |
-| Friday      | Easy Run 6–7 km + Core Work                          |
-| Saturday    | Long Run 18–20 km (finish last 3 km strong)          |
-| Sunday      | Easy Recovery Run 5–7 km                             |
+## Week 2 (June 23, 2025 – June 29, 2025)
 
----
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RFR44 (Fartlek Run) – 0:51:00                |
+| Tuesday   | RF26 (Foundation Run) – 0:45:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF26 (Foundation Run) – 0:45:00              |
+| Saturday  | RL27 (Long Run) – 1:24:45                    |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
 
-## Marathon Specific Phase (August 12 – October 5, 2025)
 
-| Day         | Workout Description                                  |
-|-------------|------------------------------------------------------|
-| Monday      | Easy Run 8–9 km + Mobility                           |
-| Tuesday     | Marathon Pace Workout: 6–8 km at 5:27/km             |
-| Wednesday   | Frontrunners Athletic Club (supportive session)      |
-| Thursday    | Rest Day                                             |
-| Friday      | Easy Run 6–7 km + Light Strength and Form Drills     |
-| Saturday    | Long Run 24–30 km (include marathon pace segments)   |
-| Sunday      | Easy Recovery Run 5–6 km                             |
+## Week 3 (June 30, 2025 – July 06, 2025)
 
----
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RCV5 (Critical Velocity Run) – 1:00:00       |
+| Tuesday   | RF27 (Foundation Run) – 0:55:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:55:00              |
+| Saturday  | RL31 (Long Run) – 2:09:36                    |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
 
-## Race Week (October 6 – October 12, 2025)
 
-| Day         | Workout Description                                  |
-|-------------|------------------------------------------------------|
-| Monday      | Easy Run 5 km + Mobility Work                        |
-| Tuesday     | Aerobic Run 5–6 km (with 3 × 1 min pickups @ MP)     |
-| Wednesday   | Frontrunners Athletic Club (very light/social)       |
-| Thursday    | Rest Day                                             |
-| Friday      | 4 km Shakeout Jog + 2 strides (easy)                 |
-| Saturday    | Full Rest Day (Off, relaxed walks only)              |
-| Sunday      | **Race Day – Royal Victoria Marathon**               |
+## Week 4 (July 7, 2025 – July 13, 2025)
 
----
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | OUR5 (Over/Under Intervals Run) – 0:57:50    |
+| Tuesday   | RF27 (Foundation Run) – 0:50:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:50:00              |
+| Saturday  | RL33 (Long Run) – 2:32:02                    |
+| Sunday    | Rest Day                                     |
 
-# Key Notes
 
-- **Transition Phase** — prioritize gentle return to structure after Navy.
-- **Base Phase** — build aerobic endurance, don't chase paces.
-- **Marathon Phase** — introduce marathon pace work and progressive long runs.
-- **Fueling Practice** — practice gels every 45 minutes on long runs.
-- **Shin Health Management** — monitor carefully and adjust as needed.
-- **Patience** early in training and early in race; race begins after 32 km.
+## Week 5 (July 14, 2025 – July 20, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RP8 (Progression Run) – 1:05:00              |
+| Tuesday   | RF26 (Foundation Run) – 0:45:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF26 (Foundation Run) – 0:45:00              |
+| Saturday  | RL29 (Long Run) – 1:47:11                    |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 6 (July 21, 2025 – July 27, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RSS11 (Steady State Run) – 1:05:00           |
+| Tuesday   | RF28 (Foundation Run) – 0:55:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF28 (Foundation Run) – 0:55:00              |
+| Saturday  | RD3 (Depletion Run) – 2:00:00                |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 7 (July 28, 2025 – August 3, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | R10K2 (10K Pace Intervals) – 1:18:24         |
+| Tuesday   | RF28 (Foundation Run) – 0:55:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF28 (Foundation Run) – 0:55:00              |
+| Saturday  | RMP1 (Marathon Pace Run) – 2:07:12           |
+| Sunday    | Rest Day                                     |
+
+
+## Week 8 (August 4, 2025 – August 10, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RF47 (Fartlek Run) – 0:55:00                 |
+| Tuesday   | RF27 (Foundation Run) – 0:50:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:50:00              |
+| Saturday  | RFF41 (Zone 3 Fast Finish Run) – 1:40:00     |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 9 (August 11, 2025 – August 17, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RF47 (Tempo Run) – 1:03:00                   |
+| Tuesday   | RF29 (Foundation Run) – 1:00:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF29 (Foundation Run) – 1:00:00              |
+| Saturday  | RL35 (Long Run) – 2:54:27                    |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 10 (August 18, 2025 – August 24, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RSS17 (Steady State Run) – 1:15:00           |
+| Tuesday   | RF29 (Foundation Run) – 1:00:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF29 (Foundation Run) – 1:00:00              |
+| Saturday  | RMP4 (Marathon Pace Run) – 2:13:41           |
+| Sunday    | Rest Day                                     |
+
+
+## Week 11 (August 25, 2025 – August 31, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RP12 (Progression Run) – 1:03:00             |
+| Tuesday   | RF27 (Foundation Run) – 0:50:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:50:00              |
+| Saturday  | RD4 (Depletion Run) – 2:20:00                |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 12 (September 1, 2025 – September 7, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RCV6 (Critical Velocity Run) – 1:06:00       |
+| Tuesday   | RF29 (Foundation Run) – 1:00:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF29 (Foundation Run) – 1:00:00              |
+| Saturday  | RFF42 (Zone 3 Fast Finish Run) – 1:50:00     |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 13 (September 8, 2025 – September 14, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | OUR8 (Over/Under Intervals Run) – 1:06:00    |
+| Tuesday   | RF29 (Foundation Run) – 0:58:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF29 (Foundation Run) – 0:50:00              |
+| Saturday  | RL37 (Long Run) – 3:16:53                    |
+| Sunday    | Rest Day                                     |
+
+
+## Week 14 (September 15, 2025 – September 21, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RFR47 (Fartlek Run) – 0:56:00                |
+| Tuesday   | RF27 (Foundation Run) – 0:50:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:50:00              |
+| Saturday  | RD5 (Depletion Run) – 2:40:00                |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 15 (September 22, 2025 – September 28, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RSS23 (Steady State Run) – 1:25:00           |
+| Tuesday   | RF29 (Foundation Run) – 1:00:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF29 (Foundation Run) – 1:00:00              |
+| Saturday  | RMP6 (Marathon Pace Run) – 2:44:47           |
+| Sunday    | RRr12 (Recovery Run) – 0:30:00               |
+
+
+## Week 16 (September 29, 2025 – October 5, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | RT56 (Tempo Run) – 1:15:00                   |
+| Tuesday   | RF29 (Foundation Run) – 1:00:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF27 (Foundation Run) – 0:50:00              |
+| Saturday  | RL29 (Long Run) – 1:47:11                    |
+| Sunday    | Rest Day                                     |
+
+
+## Week 17 (October 6, 2025 – October 12, 2025)
+
+| Day       | Workout Description                          |
+|-----------|----------------------------------------------|
+| Monday    | Your Reward!                                 |
+| Tuesday   | RF26 (Foundation Run) – 0:45:00              |
+| Wednesday | Frontrunners Athletic Club                   |
+| Thursday  | Flexibility/Mobility/Yoga – 0:30:00          |
+| Friday    | RF21 (Foundation Run) – 0:20:00              |
+| Saturday  | RF21 (Foundation Run) – 0:20:00              |
+| Sunday    | **Race Day – Royal Victoria Marathon**       |
+
 
 ---
 
