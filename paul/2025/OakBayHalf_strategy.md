@@ -10,11 +10,11 @@
 
 ## Morning Schedule
 
-- 3:30am Wake
-- 3:45am Breakfast (light, familiar foods)
-- 5:45am Leave for race site
-- 6:20am Warm-up starts
-- 7:00am Race Start
+- 5:00am Wake
+- 5:45am Breakfast (light, familiar foods)
+- 6:45am Leave for race site
+- 7:20am Warm-up starts
+- 8:00am Race Start
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## Fueling and Hydration Plan
 
-- **Breakfast:** Light breakfast 3 hours before race (e.g., toast, banana, coffee).
+- **Breakfast:** Light breakfast 2.5 hours before race (e.g., toast, banana, coffee).
 - **Gel 1:** Around 40–45 minutes in (~KM 8–9).
 - **Gel 2:** Around 90 minutes (~KM 16–17).
 - **Water:** Small sips at every aid station — no gulping.
