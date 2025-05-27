@@ -12,7 +12,7 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 | 5K            | 23:02   | 2025-01-01 | [5K Time Trial](https://www.strava.com/activities/13241728533)              |
 | 8K            | 39:55   | 2025-02-28 | [Hatley Castle 8K](https://www.strava.com/activities/13708550716)           |
 | 10K           | 48:30   | 2025-04-27 | [TC10K](https://www.strava.com/activities/14303960743)                      |
-| Half Marathon | 1:52:32 | 2024-12-28 | [Oak Bay Half](https://www.strava.com/activities/14592916669)                |
+| Half Marathon | 1:52:32 | 2025-05-25 | [Oak Bay Half](https://www.strava.com/activities/14592916669)                |
 | Marathon      | 4:55:17 | 2020-10-12 | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516) |
 
 ---
