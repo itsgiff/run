@@ -12,7 +12,7 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 | 5K            | 23:02   | 2025-01-01 | [5K Time Trial](https://www.strava.com/activities/13241728533)              |
 | 8K            | 39:55   | 2025-02-28 | [Hatley Castle 8K](https://www.strava.com/activities/13708550716)           |
 | 10K           | 48:30   | 2025-04-27 | [TC10K](https://www.strava.com/activities/14303960743)                      |
-| Half Marathon | 1:52:32 | 2024-12-28 | [Morning Run](https://www.strava.com/activities/13211252057)                |
+| Half Marathon | 1:52:32 | 2024-12-28 | [Oak Bay Half](https://www.strava.com/activities/14592916669)                |
 | Marathon      | 4:55:17 | 2020-10-12 | [Calgary Scotiabank Marathon](https://www.strava.com/activities/3786964516) |
 
 ---
@@ -27,9 +27,9 @@ Personal bests, goal tracking, and race planning for 2024–2028. This serves as
 | 2025-03-09 | Sooke 10K               | 10K      | DNR - Injury | N/A      | DNR     | Missed due to shin splints |
 | 2025-04-13 | Bazan Bay 5K            | 5K       | DNR - Injury | N/A      | DNR     | Missed due to foot injury  |
 | 2025-04-27 | TC10K                   | 10K      | Completed    | Sub-49   | 48:30   | New PB                     |
-| 2025-05-26 | Oak Bay Half            | 21.1K    | In Training  | Sub 1:50 | TBD     | Primary Spring Goal        |
-| 2025-06-22 | Navy Run                | 10K      | Upcoming     | Sub 50   | TBD     | One year later             |
-| 2025-10-12 | Royal Victoria Marathon | 42.2K    | Upcoming     | 3:50     | TBD     | PB Attempt                 |
+| 2025-05-26 | Oak Bay Half            | 21.1K    | Completed    | Sub 1:50 | 1:49:58 | Primary Spring Goal        |
+| 2025-06-22 | Navy Run                | 10K      | In Training  | Sub 50   | TBD     | One year later             |
+| 2025-10-12 | Royal Victoria Marathon | 42.2K    | In Training  | 3:50     | TBD     | PB Attempt                 |
 | 2026-01-01 | 5K Time Trail           | 5K       | Planned      | 22:00    | TBD     | PB Attempt                 |
 | 2026-01-26 | Cobble Hill 10K         | 10K      | Planned      | 45:00    | TBD     | Winter Series PB           |
 | 2026-04-13 | Bazan Bay 5K            | 5K       | Planned      | PB       | TBD     | PB Attempt / Redemption    |
